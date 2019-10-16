@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\CSMedium_4.2\CSMedium_4.2\bin\Debug\CSMedium_4.2.exe.config
+C:\Users\User\source\repos\CSMedium_4.2\CSMedium_4.2\bin\Debug\CSMedium_4.2.exe
+C:\Users\User\source\repos\CSMedium_4.2\CSMedium_4.2\bin\Debug\CSMedium_4.2.pdb
+C:\Users\User\source\repos\CSMedium_4.2\CSMedium_4.2\obj\Debug\CSMedium_4.2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CSMedium_4.2\CSMedium_4.2\obj\Debug\CSMedium_4.2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSMedium_4.2\CSMedium_4.2\obj\Debug\CSMedium_4.2.exe
+C:\Users\User\source\repos\CSMedium_4.2\CSMedium_4.2\obj\Debug\CSMedium_4.2.pdb
